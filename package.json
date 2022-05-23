@@ -1,0 +1,27 @@
+{
+  "name": "F1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v8-speedway/F1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v8-speedway/F1/issues"
+  },
+  "homepage": "https://github.com/v8-speedway/F1#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "webpack": "^5.72.1"
+  },
+  "dependencies": {
+    "@marko/webpack": "^9.2.2"
+  }
+}
